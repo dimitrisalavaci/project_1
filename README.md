@@ -3,14 +3,14 @@
 ## Project/Goals
 (fill in your description and goals here)
 
-Process
+Process:
 
-Step 1: Loading csv files into database
-Step 2: Data cleaning
-Step 3: Questions
-Step 4: Data
-Step 5: QA your data
-Step 6: Generate ERD 
+1. Loading csv files into database
+2. Data cleaning
+3. Questions
+4. Data
+5. QA your data
+6. Generate ERD 
 
 
 ## Results
