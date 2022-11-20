@@ -3,7 +3,7 @@
 ## Project/Goals
 (fill in your description and goals here)
 
-Process:
+##Process:
 
 1. Loading csv files into database
 2. Data cleaning
