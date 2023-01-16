@@ -21,6 +21,8 @@ Below, provide the SQL queries you used to clean your data.
 SELECT unit_price :: decimal / 1000000 AS updated_unit_price
 FROM analytics;
 
+
+
 UPDATE analytics
 SET unit_price = unit_price :: decimal / 1000000;
 
@@ -38,7 +40,7 @@ HAVING COUNT(*) > 1;
 
 3. 
 
---Check to see how many values have "not availble in demo dataset"
+--Check to see how many values have "not available in demo dataset"
  
 SELECT country, city
 FROM all_sessions
