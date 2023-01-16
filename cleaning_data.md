@@ -36,6 +36,8 @@ FROM products
 GROUP BY sku
 HAVING COUNT(*) > 1;
 
+(NOTE: for some reason it's not adding the stars in the brackets after count)
+
 
 
 3. 
