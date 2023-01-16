@@ -2,7 +2,7 @@
 
 ## Project/Goals
 
-- Complete the assignemnt to the best of my ability with as much organized detail as possible, while understanding everything I'm doing
+- Extract data from csv files, transform it into importable data, load it into the tables and clean the data.
 
 ## Process:
 
